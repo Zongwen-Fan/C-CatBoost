@@ -1,7 +1,8 @@
 # C-CatBoost
 Complementary CatBoost based on residual error
 
-# The dataset can be downloaded from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/320/student+performance)
+# The dataset can be downloaded from the UCI Machine Learning Repository 
+https://archive.ics.uci.edu/dataset/320/student+performance
 
 # Parameter tuning
 In this paper, the grid search is used with 10-fold cross-validation in the machine-learning models for parameter tuning. 
