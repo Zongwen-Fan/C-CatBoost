@@ -9,6 +9,6 @@ In this paper, the grid search is used with 10-fold cross-validation in the mach
 
 The optimal hyper-paramters are used for the final prediction as given in the jupyter notebook files. All the experiments are repeated for 20 times
 
-The results for predicting the Portuguese language course in "EDM Portuguese language-Complementary CatBoost.ipynb"
-The results for predicting the Mathematics course in "EDM Math-Complementary CatBoost-GitHub.ipynb"
-The results for predicting the math score in "EDM MathE dataset (4)-Complementary CatBoost.ipynb"
+The results for predicting the Portuguese language course in "EDM Portuguese language-Complementary CatBoost.ipynb" using the student-por.csv dataset
+The results for predicting the Mathematics course in "EDM Math-Complementary CatBoost-GitHub.ipynb" using the student-mat.csv dataset
+The results for predicting the math score in "EDM MathE dataset (4)-Complementary CatBoost.ipynb" using the exams.csv dataset
